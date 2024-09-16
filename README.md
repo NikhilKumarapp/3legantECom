@@ -13,7 +13,7 @@ Frontend
 React Components: AuthForm, ProductList, ProductDetail, Cart
 Redux: State management for user auth and cart
 React Router: Page navigation
-
+---------------------------------------------------------------------------------
 Setup
 1.Clone & Install:
 ```
