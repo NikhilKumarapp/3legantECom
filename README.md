@@ -35,6 +35,12 @@ SESSION_KEY = SESSION_KEY
 Backend: npm start
 Frontend: npm start
 ```
+### Admin Login Credentials
+```
+Email: admin@admin.com
+Password: Admin@123
+
+```
 Tech Stack:
 Backend: Node.js, Express, MongoDB, JWT
 Frontend: React, Redux, React Router
